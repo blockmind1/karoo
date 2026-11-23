@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lap NP</string>
+    <string name="extension_name">Lap NP</string>
+    <string name="zone_name">NP vuelta vs objetivo</string>
+    <string name="zone_description">NP de la vuelta coloreada según el objetivo del intervalo: verde dentro, azul por debajo, rojo por encima.</string>
+    <string name="numeric_name">NP vuelta</string>
+    <string name="numeric_description">Potencia normalizada de la vuelta o intervalo actual (media durante los primeros 30 s).</string>
+    <string name="main_help">Lap NP está instalado.\n\nEdita un perfil de salida (por ejemplo, la página de entreno o el cajón Lap &amp; Workout) y añade el campo «NP vuelta vs objetivo», dentro de la sección de extensiones / Lap NP.\n\nVerde: la NP del intervalo está en el rango.\nAzul ▲: por debajo, apreta.\nRojo ▼: por encima, afloja.\nGris: primeros 10 s del intervalo.\n\nDurante los primeros 30 s se muestra la potencia media (todavía no existe NP).</string>
+</resources>

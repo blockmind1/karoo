@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    id="lapnp"
+    displayName="@string/extension_name"
+    icon="@drawable/ic_lap_np"
+    scansDevices="false">
+    <DataType
+        typeId="lap-np-zone"
+        displayName="@string/zone_name"
+        description="@string/zone_description"
+        graphical="true"
+        icon="@drawable/ic_lap_np" />
+    <DataType
+        typeId="lap-np"
+        displayName="@string/numeric_name"
+        description="@string/numeric_description"
+        graphical="false"
+        icon="@drawable/ic_lap_np" />
+</ExtensionInfo>
